@@ -43,6 +43,7 @@
         android:text="@string/login_btn_text"
         android:textSize="18sp"
         android:textFontWeight="500"
+        android:onClick="login"
         android:background="@drawable/rounded_btn"
         android:textColor="@color/white"
         app:layout_constraintEnd_toEndOf="parent"

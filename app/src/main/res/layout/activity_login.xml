@@ -78,6 +78,7 @@
         android:background="@drawable/rounded_btn"
         android:textColor="@color/white"
         android:textSize="18sp"
+        android:onClick="signin"
         android:textFontWeight="500"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
