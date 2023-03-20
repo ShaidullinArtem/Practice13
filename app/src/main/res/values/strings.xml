@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="hello">ПРИВЕТ\nНаслаждайся отборочными.\nБудь внимателен.\nДелай хорошо.</string>
+    <string name="signup_offer">Еще нет аккаунта? Зарегистрируйтесь</string>
+    <string name="login_btn_text">Войти в аккаунт</string>
+    <string name="sign_in">Sign in</string>
+    <string name="register">Register</string>
+    <string name="title_activity_main_bottom_navigation">MainBottomNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
