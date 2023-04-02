@@ -21,7 +21,7 @@ class Login : AppCompatActivity() {
     fun signin(view: View) {
         if (email.text.toString().isNotEmpty() && password.text.toString().isNotEmpty())
         {
-            val intent = Intent(this, MainActivity::class.java)
+            val intent = Intent(this, MenuActivity::class.java)
             startActivity(intent)
         } else {
             val alert = AlertDialog.Builder(this)

@@ -9,4 +9,7 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="name">С возвращение, Эмиль</string>
+    <string name="main_hello">Каким ты ощущаешь себя сегодня?</string>
 </resources>
